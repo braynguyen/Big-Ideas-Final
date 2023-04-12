@@ -1,0 +1,233 @@
+id,name,control_type,feature_type,inactive,make,image,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1816791851,Able Long Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Able_Long_Park.jpg,Beechview,4,19,42003192000,5,19,6,4-28,40.40844046,-80.02833042
+1599892422,Albert Turk Graham Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Albert_Turk_Graham_Park.jpg,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44045321,-79.98406376
+1422043278,Allegheny Commons Arch St,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Allegheny_Commons_Arch_St.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45438959,-80.00828053
+1237191582,Allegheny Commons East Tennis Courts,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Allegheny_Commons_East_Tennis_Courts.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.4508744,-80.00196176
+1146184773,Allegheny Commons Pool,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Allegheny_Commons_Pool.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45100304,-80.00150158
+1230448600,Alton Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Alton_Park.jpg,Beechview,4,19,42003191600,5,19,6,4-28,40.41427989,-80.0214566
+887743707,Ammon Park Building,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Ammon_Park_Building.jpg,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.44928565,-79.97787062
+1767127832,Ammon Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Ammon_Park_Spray.jpg,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.44915231,-79.97811065
+354464900,Armstrong Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Armstrong_Park.jpg,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42830003,-79.98619846
+495479912,Armstrong Park Spray,Continuous,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Armstrong_Park_Spray.jpg,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42818507,-79.98612686
+1616218742,August Wilson Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/August_Wilson_Park.jpg,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44659113,-79.98583935
+778611148,Banksville Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Banksville_Park.jpg,Banksville,2,20,42003202300,5,20,6,4-9,40.41433129,-80.03993382
+2022336,Banksville Pool,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Banksville_Pool.jpg,Banksville,2,20,42003202300,5,20,6,4-9,40.41475735,-80.0402496
+1397516664,Bloomfield Playground,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Bloomfield_Playground.jpg,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46229453,-79.95336878
+1198549820,Bon Air Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Bon_Air_Park.jpg,Bon Air,4,18,42003562400,5,18,3,4-7,40.40749913,-79.99953958
+903065143,Boundary Street Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Boundary_Street_Park.jpg,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43858362,-79.9502933
+1371255230,Brighton Heights 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brighton_Heights_2.jpg,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48683394,-80.03104613
+675378423,Brighton Heights 3,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brighton_Heights_3.jpg,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48631684,-80.03014254
+2077339333,Brighton Heights Pool,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brighton_Heights_Pool.jpg,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48690447,-80.03094868
+967061988,Brookline Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Brookline_Park.jpg,Brookline,4,32,42003320600,5,32,6,4-26,40.39137133,-80.00851013
+1253116635,Brookline Park 2,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brookline_Park_2.jpg,Brookline,4,32,42003320600,5,32,6,4-26,40.39105907,-80.00823992
+1398545450,Brookline Park 3,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brookline_Park_3.jpg,Brookline,4,32,42003320600,5,32,6,4-26,40.39171767,-80.00777237
+1775080401,Brookline Park 4,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Brookline_Park_4.jpg,Brookline,4,32,42003320600,5,32,6,4-25,40.39009074,-80.00739016
+1663633639,Bud Hammer Field,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Bud_Hammer_Field.jpg,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42071201,-79.946274
+486969350,Bud Hammer Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Bud_Hammer_Park.jpg,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42145685,-79.94657625
+801236808,Burgwin Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Burgwin_Park.jpg,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40494494,-79.93707895
+759867466,Chadwick Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Chadwick_Park.jpg,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,3-18,40.46501907,-79.89120739
+1532971693,Chadwick Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Chadwick_Park_Spray.jpg,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,3-18,40.46527244,-79.89064273
+1400259378,Chartiers Park Drinking Fountain,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Chartiers_Park_Drinking_Fountain.jpg,Windgap,2,28,42003563000,5,28,6,1-16,40.45714301,-80.07478278
+1231352098,Chartiers Playground,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Chartiers_Playground.jpg,Windgap,2,28,42003563000,5,28,6,1-16,40.45723738,-80.07492561
+126528135,Cowley Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Cowley_Park.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45822072,-79.98866784
+2020969508,Cowley Park 2,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Cowley_Park_2.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45859254,-79.98829122
+113173335,Cowley Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Cowley_Playground.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45822072,-79.98866784
+848798757,Dallas Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Dallas_Park.jpg,Homewood West,9,12,42003120700,2,12,5,3-17,40.45784257,-79.90430672
+1458131269,Davis Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Davis_Park.jpg,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43241956,-79.92489385
+1223672662,Denny Park,,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Denny_Park.jpg,Strip District,7,6,42003020300,6,6,2,3-2,40.45778083,-79.97305034
+617520008,Dinan Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Dinan_Park.jpg,Stanton Heights,7,10,42003101800,2,10,5,3-7,40.48449055,-79.93372334
+409076412,East Hills Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/East_Hills_Park.jpg,East Hills,9,13,42003130600,2,13,5,3-19,40.45342074,-79.87093131
+190601280,Eileen McCoy Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Eileen_McCoy_Park.jpg,Duquesne Heights,2,19,42003191100,5,19,3,4-1,40.43813023,-80.02439568
+1273807679,Eileen McCoy Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Eileen_McCoy_Park_Spray.jpg,Duquesne Heights,2,19,42003191100,5,19,3,4-1,40.43805448,-80.02449155
+1204770038,Eliza Furnace Trail Lot,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Eliza_Furnace_Trail_Lot.jpg,South Oakland,3,4,42003562900,3,4,4,2-12,40.42634534,-79.95288414
+1555189480,Enright Park Drinking,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Enright_Park_Drinking.jpg,East Liberty,9,8,42003111500,2,8,5,3-23,40.46189356,-79.92994039
+1598623104,Enright Playground,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Enright_Playground.jpg,East Liberty,9,8,42003111500,2,8,5,3-23,40.46196081,-79.93000061
+924828750,Farmhouse Playground,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Farmhouse_Playground.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.47605625,-79.91356886
+299456051,Fort Pitt Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Fort_Pitt_Park.jpg,Garfield,9,10,42003101700,2,10,5,3-4,40.46893177,-79.94236828
+1208901284,Four Mile Run Playground,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Four_Mile_Run_Playground.jpg,Greenfield,5,14,42003151600,3,14,4,2-12,40.42791741,-79.94876451
+915807211,Fowler Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Fowler_Park.jpg,Perry South,6,26,42003261400,1,26,1,1-23,40.47041983,-80.01093274
+1660906515,Frazier Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frazier_Park.jpg,South Oakland,3,4,42003040900,3,4,4,2-11,40.42970983,-79.95437285
+874677519,Frazier Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Frazier_Park_Spray.jpg,South Oakland,3,4,42003040900,3,4,4,2-11,40.42937105,-79.95392683
+1690183751,Frick Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park.jpg,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.43111338,-79.9103817
+1293021642,Frick Park Blue Slide Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Blue_Slide_Playground.jpg,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.43016066,-79.91493036
+167218041,Frick Park Bowling Greens 1,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Bowling_Greens_1.jpg,Point Breeze,9,14,42003981100,3,14,4,3-14,40.44478599,-79.90082169
+789253838,Frick Park Bowling Greens 2,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Bowling_Greens_2.jpg,Point Breeze,9,14,42003981100,3,14,4,3-14,40.44482376,-79.90085855
+1179706834,Frick Park Forbes and Braddock,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Forbes_and_Braddock.jpg,Regent Square,5,14,42003141000,3,14,4,2-16,40.43902128,-79.8984286
+1203062975,Frick Park Lederman Field,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Lederman_Field.jpg,Squirrel Hill South,5,14,42003980300,3,14,4,2-21,40.42947698,-79.91381462
+935394713,Frick Park Lower,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Lower.jpg,Squirrel Hill South,5,14,42003980300,3,14,4,2-16,40.43310456,-79.90015078
+1136382439,Frick Park Tennis Courts,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Park_Tennis_Courts.jpg,Regent Square,5,14,42003141000,3,14,4,2-16,40.43763741,-79.89807755
+1793542714,Frick Parl Forbes and Braddock 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Frick_Parl_Forbes_and_Braddock_2.jpg,Regent Square,5,14,42003141000,3,14,4,2-16,40.43883356,-79.89745835
+993176474,Friendship Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Friendship_Park.jpg,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46269351,-79.94672838
+1866589819,Gardner Field,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Gardner_Field.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46172833,-79.98540208
+1689634410,Garland Park Drinking,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Garland_Park_Drinking.jpg,East Liberty,9,11,42003111500,2,11,5,3-8,40.46356975,-79.92774923
+91938308,Garland Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Garland_Park_Spray.jpg,East Liberty,9,11,42003111500,2,11,5,3-8,40.46358933,-79.92780942
+1618999333,Grandview Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Grandview_Park.jpg,Allentown,3,18,42003180300,5,18,3,4-5,40.42639643,-79.99668063
+2074539814,Grandview Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Grandview_Playground.jpg,Allentown,3,18,42003180300,5,18,3,4-5,40.42480398,-79.99387515
+386451477,Granville Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Granville_Park.jpg,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44444403,-79.98278564
+43157305,Hays Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Hays_Park.jpg,Hays,5,31,42003562900,3,31,4,4-20,40.38325494,-79.93141484
+333164670,Herschel Concession Stand,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Herschel_Concession_Stand.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.44027657,-80.04393116
+1588506934,Herschel Field Lower,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Herschel_Field_Lower.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.44001953,-80.04314553
+1328526399,Herschel Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Herschel_Playground.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.44032904,-80.04335591
+88627156,Heth's Park Bocci Court,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Heth's_Park_Bocci_Court.jpg,Morningside,7,10,42003101400,2,10,5,3-7,40.47849719,-79.92807662
+822369247,Heth's Playground,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Heth's_Playground.jpg,Morningside,7,10,42003110200,2,10,5,3-9,40.47701559,-79.92804637
+1457599280,Heth's Playground Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Heth's_Playground_Spray.jpg,Morningside,7,10,42003101400,2,10,5,3-9,40.47694622,-79.92809734
+908546516,Highland Park Carnegie Lake,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Carnegie_Lake.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.47998964,-79.91110608
+815585822,Highland Park Entrance,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Entrance.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.4787428,-79.9161988
+2041357667,Highland Park Entrance Decor,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Entrance_Decor.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.4793569,-79.91552825
+1580847086,Highland Park Lake Point Shelter,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Lake_Point_Shelter.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48014746,-79.90987414
+1822184279,Highland Park N St Clair St Tennis Courts,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_N_St_Clair_St_Tennis_Courts.jpg,Highland Park,7,11,42003110200,2,11,5,3-9,40.47892805,-79.91893469
+1970814136,Highland Park OLEA,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_OLEA.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48318115,-79.91130821
+1781536716,Highland Park Reservoir,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Reservoir.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48145704,-79.91388305
+473521065,Highland Park Service Building,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Service_Building.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.47916394,-79.91344158
+638639284,Highland Park Super Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Super_Playground.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.4806417,-79.91806973
+1065587438,Highland Park Tennis Courts,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Highland_Park_Tennis_Courts.jpg,Highland Park,9,11,42003980100,2,11,5,3-9,40.47382935,-79.91092186
+817843049,Jefferson Playground,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Jefferson_Playground.jpg,Central Northside,6,25,42003250300,1,25,1,1-21,40.4593419,-80.01449532
+1510792189,Joe Natoli Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Joe_Natoli_Park.jpg,Morningside,7,10,42003101400,2,10,5,3-7,40.48457731,-79.92587821
+1054169460,Joe Natoli Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Joe_Natoli_Spray.jpg,Morningside,7,10,42003101400,2,10,5,3-7,40.48469129,-79.92599704
+1521781619,Joy of Life Fountain,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Joy_of_Life_Fountain.jpg,East Liberty,9,8,42003111500,2,8,5,3-11,40.46071821,-79.92625483
+1087849768,Kennard Park 1,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Kennard_Park_1.jpg,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44322557,-79.97400037
+707602709,Kennard Park 2,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Kennard_Park_2.jpg,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44324438,-79.97335198
+37424217,Kennard Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Kennard_Park_Spray.jpg,Terrace Village,6,5,42003051000,3,5,2,2-10,40.4434454,-79.97375031
+1758260306,Larimer Basketball Court,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Larimer_Basketball_Court.jpg,Larimer,9,12,42003120400,2,12,5,3-12,40.46630759,-79.9123366
+1832931023,Larimer Playground Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Larimer_Playground_Spray.jpg,Larimer,9,12,42003120400,2,12,5,3-12,40.46687658,-79.91336041
+1759829406,Leolyn Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Leolyn_Park.jpg,Carrick,4,29,42003290200,3,29,3,4-12,40.39915205,-79.98611965
+596435290,Leslie Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Leslie_Playground.jpg,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.47269069,-79.9580857
+1483244069,Leslie Playground Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Leslie_Playground_Spray.jpg,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.47269069,-79.9580857
+825439292,Lincoln Place Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Lincoln_Place_Park.jpg,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36991404,-79.91746084
+402622431,Magee Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Magee_Park.jpg,Greenfield,5,15,42003151700,3,15,4,2-15,40.42514243,-79.93718061
+620370183,Magee Pool,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Magee_Pool.jpg,Greenfield,5,15,42003151700,3,15,4,2-15,40.42501134,-79.93712836
+1262424030,Manchester Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Manchester_Park.jpg,Manchester,6,21,42003210700,1,21,1,1-8,40.45863575,-80.02572689
+1898260703,Marmaduke Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Marmaduke_Playground.jpg,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48438721,-80.04239565
+1186365777,Marmaduke Playground Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Marmaduke_Playground_Spray.jpg,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48434604,-80.04227541
+941453533,Marshall-California Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Marshall-California_Park.jpg,Marshall-Shadeland,1,27,42003270400,1,27,1,1-9,40.46261996,-80.03058112
+1443379018,Martin Luther King Park,Continuous,Drinking Fountain,f,Regular Fountain,,Terrace Village,6,5,42003051100,3,5,2,2-1,40.43997128,-79.9743711
+1895367685,Mary Schenley Memorial,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mary_Schenley_Memorial.jpg,Central Oakland,3,4,42003040500,3,4,4,2-11,40.44200579,-79.95189862
+922874354,McBride Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/McBride_Park.jpg,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36998298,-79.90703605
+1874907790,McBride Park Pool,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/McBride_Park_Pool.jpg,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.37023846,-79.90744129
+1382189193,McCandless Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/McCandless_Playground.jpg,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48078954,-79.95255392
+1426487193,McGonigle Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/McGonigle_Park.jpg,Sheraden,2,20,42003562500,5,20,6,1-16,40.45941522,-80.06546059
+1316648522,McKinley Park Lower,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/McKinley_Park_Lower.jpg,Beltzhoover,4,18,42003562400,5,18,3,4-7,40.41343444,-79.99761803
+1127898064,McKnight Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/McKnight_Playground.jpg,Manchester,6,21,42003210700,1,21,1,1-8,40.45192262,-80.0227816
+989039538,Mellon Lower 2,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Lower_2.jpg,Shadyside,8,7,42003070800,2,7,4,3-13,40.45580201,-79.91548853
+88935866,Mellon Park Garden Fountain,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Park_Garden_Fountain.jpg,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45199976,-79.91892012
+828380392,Mellon Park Restroom Building,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Park_Restroom_Building.jpg,Shadyside,8,7,42003070800,2,7,4,3-13,40.45418802,-79.91570844
+151651347,Mellon Park Rose Garden,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Park_Rose_Garden.jpg,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45192456,-79.91744963
+778274645,Mellon Park Tennis Bubble,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Park_Tennis_Bubble.jpg,Shadyside,8,7,42003070800,2,7,4,3-13,40.45390907,-79.91744418
+1589825937,Mellon Park Upper,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Park_Upper.jpg,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45159639,-79.91841057
+1360467647,Moore Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Moore_Park.jpg,Brookline,4,19,42003191700,5,19,6,4-26,40.40538486,-80.01471846
+1410493433,Moore Park 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Moore_Park_2.jpg,Brookline,4,19,42003191700,5,19,6,4-26,40.40530286,-80.01310771
+880876022,Moore Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Moore_Park_Spray.jpg,Brookline,4,19,42003191700,5,19,6,4-26,40.40531399,-80.01461255
+1996300019,Moore Pool,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Moore_Pool.jpg,Brookline,4,19,42003191700,5,19,6,4-26,40.40558334,-80.013901
+1171039548,Mt Washington Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Mt_Washington_Park.jpg,Mount Washington,2,19,42003191400,5,19,3,4-27,40.42466926,-80.01467406
+14232125,Nelson Mandela Peace Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Nelson_Mandela_Peace_Park.jpg,Garfield,9,10,42003101700,2,10,5,3-4,40.4661093,-79.94072153
+838112314,Oakwood Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Oakwood_Park.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42597993,-80.06668737
+226505309,Olympia Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Olympia_Park.jpg,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43143265,-80.01802345
+1775386655,Ormsby Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Ormsby_Park.jpg,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42939602,-79.97436319
+746453038,Ormsby Pool,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Ormsby_Pool.jpg,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42918966,-79.97419522
+445700389,Osceola Park,Continuous,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Osceola_Park.jpg,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45666336,-79.94245805
+846556651,Osceola Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Osceola_Park_Spray.jpg,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45666336,-79.94245805
+1493502577,Paul Sciullo Memorial Park 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Paul_Sciullo_Memorial_Park_2.jpg,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46208135,-79.95388183
+346049453,Pauline Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Pauline_Park.jpg,Beechview,4,19,42003192000,5,19,6,4-28,40.40485582,-80.02582543
+514539756,Phillips Park Rec Center,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Phillips_Park_Rec_Center.jpg,Carrick,4,29,42003290400,3,29,3,4-23,40.39181729,-79.99093722
+441243647,Phillips Playground,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Phillips_Playground.jpg,Carrick,4,29,42003290400,3,29,3,4-23,40.38808756,-79.99015981
+2000631271,Ream Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Ream_Playground.jpg,Mount Washington,2,19,42003190300,5,19,3,4-27,40.43124325,-80.01335533
+1372605741,Ream Pool 1,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Ream_Pool_1.jpg,Mount Washington,2,19,42003190300,5,19,3,4-27,40.4311019,-80.0133932
+2044562219,Ream Pool 2,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Ream_Pool_2.jpg,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43084445,-80.01342037
+455067262,Riverview Park 3,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Park_3.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.48063279,-80.01762579
+1701054639,Riverview Park OLEA,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Park_OLEA.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.48244319,-80.02150211
+997686203,Riverview Park Soccer Field,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Park_Soccer_Field.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.48962541,-80.02069367
+1160373356,Riverview Park Visitor Center,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Park_Visitor_Center.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.48291797,-80.01835731
+1398487504,Riverview Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Playground.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.48132376,-80.01785409
+2072019800,Riverview Pool,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Riverview_Pool.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.47976737,-80.01825948
+1270792159,Robert E Williams Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Robert_E_Williams_Park.jpg,Upper Hill,6,5,42003050600,3,5,2,2-22,40.45474313,-79.95981113
+455885427,Roland Lockridge Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Roland_Lockridge_Park.jpg,New Homestead,5,31,42003310300,3,31,4,4-20,40.3939663,-79.92075228
+1948209895,Schenley Park 1,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_1.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.44059223,-79.94847739
+1593496446,Schenley Park Anderson Playground,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Anderson_Playground.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43585189,-79.94745945
+1775749043,Schenley Park Camp David Lawrence,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Camp_David_Lawrence.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43291098,-79.94569402
+273620901,Schenley Park Oval,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Oval.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43154983,-79.94387671
+630638621,Schenley Park Oval 2,Continuous,Decorative,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Oval_2.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.4324789,-79.94176659
+1717855699,Schenley Park Vietnam Veterans,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Vietnam_Veterans.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43380609,-79.94404769
+498826017,Schenley Park Visitor Center,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Park_Visitor_Center.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43857827,-79.94632014
+1304242824,Schenley Plaza 1,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Plaza_1.jpg,North Oakland,8,4,42003040500,3,4,4,2-7,40.44223812,-79.95275146
+1228146070,Schenley Plaza 2,On/Off,Drinking Fountain,f,Haws,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Plaza_2.jpg,North Oakland,8,4,42003982200,3,4,4,2-7,40.44306295,-79.9529007
+993771927,Schenley Plaza 3,On/Off,Drinking Fountain,f,Haws,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Plaza_3.jpg,North Oakland,8,4,42003982200,3,4,4,2-7,40.44321673,-79.95229937
+1730603077,Schenley Pool,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Schenley_Pool.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43445265,-79.94688414
+26590123,Sheraden Park 2,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Sheraden_Park_2.jpg,Sheraden,2,20,42003562500,5,20,6,1-16,40.45852597,-80.05942293
+93054226,Sheraden Pool,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Sheraden_Pool.jpg,Sheraden,2,20,42003562500,5,20,6,1-16,40.45720585,-80.05979889
+1384214334,Southside Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Southside_Park.jpg,South Side Slopes,3,17,42003170600,3,17,3,4-22,40.42045535,-79.98122814
+1089685881,Spring Hill Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Spring_Hill_Park.jpg,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.46994906,-79.99307982
+925797409,Spring Hill Park 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Spring_Hill_Park_2.jpg,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47029188,-79.99286376
+1128133166,Spring Hill Playground,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Spring_Hill_Playground.jpg,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.4703228,-79.99340119
+325377980,Sullivan Field,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Sullivan_Field.jpg,Lower Lawrenceville,7,6,42003060300,2,6,2,3-6,40.46273172,-79.96309115
+1696490957,Swisshelm Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Swisshelm_Park.jpg,Swisshelm Park,5,14,42003141100,3,14,4,2-19,40.42083835,-79.90205239
+376559489,Swisshelm Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Swisshelm_Park_Spray.jpg,Swisshelm Park,5,14,42003141100,3,14,4,2-19,40.42084909,-79.90191524
+1145603642,Townsend Park,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Townsend_Park.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.44320337,-80.04007601
+898636737,Tropical Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Tropical_Park.jpg,Beechview,4,19,42003191600,5,19,6,4-28,40.4223192,-80.02406129
+1813019866,Tustin Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Tustin_Park.jpg,Bluff,6,1,42003010300,3,1,2,2-1,40.43674975,-79.97660906
+1937977168,Valley Refuge Shelter,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Valley_Refuge_Shelter.jpg,Perry North,1,26,42003980400,1,26,1,1-15,40.47927413,-80.01553671
+203657702,Vanucci Drinking,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Vanucci_Drinking.jpg,Beechview,4,19,42003191600,5,19,6,4-28,40.4148284,-80.01898971
+545352682,Volunteers Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Volunteers_Park.jpg,Carrick,4,29,42003290100,3,29,3,4-23,40.39650123,-79.99252455
+2141328002,Wabash Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Wabash_Park.jpg,West End,2,20,42003562600,5,20,6,1-17,40.43958632,-80.03413355
+715977124,Wabash Park Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Wabash_Park_Spray.jpg,West End,2,20,42003562600,5,20,6,1-17,40.43953435,-80.03396706
+1727745662,Warrington Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Warrington_Park.jpg,Beltzhoover,3,18,42003562400,5,18,3,4-5,40.42129813,-80.00116508
+1720271503,Warrington Park 2,On/Off,Drinking Fountain,f,Murdock,https://tools.wprdc.org/images/pittsburgh/water_features/Warrington_Park_2.jpg,Beltzhoover,3,18,42003562400,5,18,3,4-5,40.42148907,-80.00099167
+58028748,Washington's Landing Park,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Washington's_Landing_Park.jpg,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46836475,-79.97479
+118454294,West End Overlook Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/West_End_Overlook_Park.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.44556806,-80.03361723
+1258882390,West End Park,On/Off,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/West_End_Park.jpg,Elliott,2,20,42003562600,5,20,6,1-17,40.43750082,-80.03772736
+2117919694,West Penn,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/West_Penn.jpg,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45537384,-79.9696911
+78567491,West Penn Field,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/West_Penn_Field.jpg,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45513832,-79.97122466
+547170985,West Penn Spray,,Spray,f,,https://tools.wprdc.org/images/pittsburgh/water_features/West_Penn_Spray.jpg,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45622259,-79.9700712
+1042638326,Westinghouse Lake,,Decorative,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Westinghouse_Lake.jpg,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43947893,-79.94299563
+1856557830,Westwood Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Westwood_Park.jpg,Westwood,2,28,42003563100,5,28,6,1-18,40.43124653,-80.05003763
+1588021595,Westwood Pool 2,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Westwood_Pool_2.jpg,Westwood,2,28,42003563100,5,28,6,1-18,40.43104855,-80.04985759
+670382875,Wightman Park,Continuous,Drinking Fountain,f,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Wightman_Park.jpg,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44312176,-79.92676643
+1535919927,Woods Run Park,On/Off,Drinking Fountain,f,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Woods_Run_Park.jpg,Marshall-Shadeland,1,27,42003271500,1,27,1,1-14,40.47628715,-80.0293361
+1125324305,Mellon Square Park 1,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Square_Park_1.jpg,Central Business District,6,2,42003020100,6,2,2,1-4,40.44071506,-79.99751855
+40077078,Mellon Square Park 2,On/Off,Drinking Fountain,f,,https://tools.wprdc.org/images/pittsburgh/water_features/Mellon_Square_Park_2.png,Central Business District,6,2,42003020100,6,2,2,1-4,40.44108659,-79.9972691
+717679113,3,On/Off,Decorative,,Haws,https://tools.wprdc.org/images/pittsburgh/water_features/3.jpg,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48440827,-80.04233748
+937849653,Banksville Concession Stand,On/Off,Drinking Fountain,,,,Banksville,2,20,42003202300,5,20,6,4-9,40.41445995,-80.03952821
+2048899387,Paulson Spray Park,On/Off,Drinking Fountain,,Murdock,,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46870812,-79.90113694
+1334794622,Arlington Park,On/Off,Drinking Fountain,,,https://tools.wprdc.org/images/pittsburgh/water_features/Arlington_Park.jpg,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41777182,-79.97480282
+585250051,6,On/Off,Drinking Fountain,,,,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44319766,-79.97408995
+1872540240,7,On/Off,Drinking Fountain,,,,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44322054,-79.97329082
+1996933006,Kennard Park 3,Continuous,Drinking Fountain,,,,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44335927,-79.97333389
+1156717340,Kennard Park 4,,Drinking Fountain,,,,Terrace Village,6,5,42003051000,3,5,2,2-10,40.44298229,-79.97257474
+629238838,10,On/Off,Drinking Fountain,,,,Upper Hill,6,5,42003050600,3,5,2,2-22,40.45471238,-79.9597714
+530737825,11,On/Off,Drinking Fountain,,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/11.jpg,Middle Hill,6,5,42003050100,3,5,2,2-5,40.4513634,-79.967267
+1823967981,12,Continuous,Spray,,,,Bedford Dwellings,6,5,42003050900,3,5,2,2-5,40.4491647,-79.9779178
+1511740767,13,On/Off,Drinking Fountain,,,,Garfield,9,10,42003101700,2,10,5,3-4,40.4660596,-79.94076007
+323094056,14,On/Off,Drinking Fountain,,,,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46274124,-79.94690124
+472370410,15,On/Off,Drinking Fountain,,,,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46232487,-79.95345882
+791139995,16,Continuous,Drinking Fountain,,,,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46231297,-79.95362361
+927229572,25,On/Off,Drinking Fountain,,,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.4683256,-79.97488213
+1795394733,26,Continuous,Drinking Fountain,,,,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.46989528,-79.99316423
+1489902925,27,On/Off,Spray,,,,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47026614,-79.99352356
+1015954772,28,Continuous,Drinking Fountain,,,,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47038692,-79.99286123
+715312553,29,On/Off,Drinking Fountain,,,,Perry South,6,26,42003261400,1,26,1,1-23,40.47040331,-80.01090059
+1144082057,30,On/Off,Drinking Fountain,,,,Manchester,6,21,42003210700,1,21,1,1-8,40.45190943,-80.02289568
+4723448,Allegheny Commons Fountain,,Decorative,,,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45580669,-80.0030034
+1731416272,31,Continuous,Decorative,,,,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45195633,-79.9189196
+1935324805,32,On/Off,Drinking Fountain,,,,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45167323,-79.91837109
+1948213673,33,On/Off,Drinking Fountain,,,,Shadyside,8,7,42003070800,2,7,4,3-13,40.45414367,-79.91563674
+568421002,34,On/Off,Drinking Fountain,,,,Shadyside,8,7,42003070800,2,7,4,3-13,40.45416827,-79.91574001
+704628569,35,On/Off,Drinking Fountain,,,https://tools.wprdc.org/images/pittsburgh/water_features/35.jpg,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.45255497,-79.90298979
+1278883361,Homewood Park,On/Off,Drinking Fountain,,,,Homewood South,9,13,42003130300,2,13,5,3-17,40.45403962,-79.90019447
+1770260511,42,On/Off,Drinking Fountain,,,https://tools.wprdc.org/images/pittsburgh/water_features/42.jpg,Hays,5,31,42003562900,3,31,4,4-20,40.38324208,-79.93138248
+1234608773,Volunteers Park 2,On/Off,Drinking Fountain,,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Volunteers_Park_2.jpg,Carrick,4,29,42003290100,3,29,3,4-23,40.39748848,-79.99300855
+1710468654,Phillips Football Field,On/Off,Drinking Fountain,,,https://tools.wprdc.org/images/pittsburgh/water_features/Phillips_Football_Field.jpg,Carrick,4,29,42003290400,3,29,3,4-23,40.39238836,-79.9925629
+1085091446,Allegheny Commons Fountain,Continuous,Decorative,,,https://tools.wprdc.org/images/pittsburgh/water_features/Allegheny_Commons_Fountain.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45573213,-80.00294935
+768100943,Allegheny Commons,On/Off,Drinking Fountain,,Most Dependable,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45569877,-80.0030589
+1587597537,49,Continuous,Spray,,,https://tools.wprdc.org/images/pittsburgh/water_features/49.jpg,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42811933,-79.98602922
+1743868744,Fineview Park,On/Off,Drinking Fountain,,,https://tools.wprdc.org/images/pittsburgh/water_features/Fineview_Park.jpg,Fineview,1,25,42003250900,1,25,1,1-10,40.46160819,-80.0038567
+1646811568,Nelson Mandela Peace Park Spray Fountain,,Spray,,,,Garfield,9,10,42003101700,2,10,5,3-4,40.46610114,-79.9406652
+1127368170,Westinghouse Park,Continuous,Drinking Fountain,,Regular Fountain,https://tools.wprdc.org/images/pittsburgh/water_features/Westinghouse_Park.jpg,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.45255835,-79.9029392
+1861451108,Liberty Green Park,On/Off,Drinking Fountain,,Most Dependable,,East Liberty,9,11,42003111500,2,11,5,3-10,40.46262617,-79.91955374
+1019085573,Wightman Park,On/Off,Drinking Fountain,,Most Dependable,https://tools.wprdc.org/images/pittsburgh/water_features/Wightman_Park.jpg,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44315327,-79.92697347
+250376003,Highland Park Reservoir 2,On/Off,Drinking Fountain,,,,Highland Park,7,11,42003980100,2,11,5,3-9,40.48152592,-79.91399804
+559657285,Catalano Park,On/Off,Drinking Fountain,,,,Spring Garden,1,24,42003241200,1,24,1,1-5,40.46016826,-79.99188915
+1959060128,Frankie Pace Park,On/Off,Drinking Fountain,,Murdock,,Central Business District,6,2,42003020100,6,2,2,2-4,40.44075605,-79.99332913
+841644883,Frankie Pace Park 2,On/Off,Drinking Fountain,,Murdock,,Central Business District,6,2,42003020100,6,2,2,2-4,40.44067013,-79.9925996
+1753196280,Mt Washington Park 2,On/Off,Drinking Fountain,,Most Dependable,,Mount Washington,2,19,42003191400,5,19,3,4-27,40.42463309,-80.01356325
+1799930767,Fowler Park 2,On/Off,Drinking Fountain,,Most Dependable,,Perry South,6,26,42003261400,1,26,1,1-12,40.46971012,-80.01262701
+319032018,Buhl Community Park 1,On/Off,Spray,,,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45200847,-80.00622852
+1637335104,Buhl Community Park 2,On/Off,Drinking Fountain,,,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45203621,-80.0058378
