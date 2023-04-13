@@ -1,0 +1,11 @@
+objectid_1,objectid,area,perimeter,greenway,greenway_i,name,acres,sqmiles,nhood,dpwdiv,shape_leng,date_resol,label,shape_length,shape_area,created_user,created_date,last_edited_user,last_edited_date
+1,23,,31202.04492188,0,4,Beechview Seldom Seen,42.67537374,0.0666808,Beechview,5,31202.0456526,1985-07-15T00:00:00,Beechview - Seldom Seen Greenway,14626.9781832431,1858946.71450806,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+2,0,,26922.01757813,4,6,Moore,27.58438034,0.04310094,Brookline,5,26922.0176189,2006-10-20T00:00:00,Moore Greenway,16334.1319367567,1201580.41329956,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+3,,,3822.36108398,,12,Nine Mile Run,11.67107758,0.0182362,Squirrel Hill South,3,,2012-05-11T00:00:00,Nine Mile Run Greenway,8518.01345440244,508394.172729492,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+4,47,,18576.34375,6,7,Perry South,12.81296932,0.02002042,Perry South,1,18576.3430879,2010-03-02T00:00:00,Perry South Greenway,18588.3826998459,558135.17590332,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+5,0,,55200.765625,0,11,Bigelow,24.19217279,0.03780057,,0,721.50023961,2012-05-11T00:00:00,Bigelow Greenway,30418.9924831247,1053815.26068115,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+6,24771,,22569.24804688,5,8,Observatory Hill Hollows,17.93786665,0.02802814,Perry North,1,22591.5180128,2010-11-03T00:00:00,Observatory Hill Hollows Greenway,22649.576469873,781376.59564209,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+7,0,,24508.02734375,0,9,Allegheny River,34.9823588,0.05466037,,2,24508.0271153,2011-03-08T00:00:00,Allegheny River Greenway,24520.1387099526,1523837.64385986,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+8,0,,6321.64794922,0,10,Oakcliffe,5.11119956,0.00798631,South Oakland,3,6321.64819273,2011-04-06T00:00:00,Oakcliffe Greenway,6349.6060176117,222644.743835449,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+9,2,,21532.10546875,7,1,Spring Hill Spring Garden,47.38997541,0.07404743,,1,21532.104694,1981-06-29T00:00:00,Spring Hill / Spring Garden Greenway,19303.1856461039,2064315.58428955,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
+10,25,,48166.9375,3,2,Hazelwood,3.13288494,0.00489513,Hazelwood,3,41209.8857304,1983-03-28T00:00:00,Hazelwood Greenway,5013.7389417684,136469.013916016,pgh.dcp.allisot,2023-03-15,pgh.dcp.allisot,2023-03-15
