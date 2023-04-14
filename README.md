@@ -1,4 +1,4 @@
-# Big-Ideas-Final Project
+# Big-Ideas-Final Project - Group 6
 Statistical data to calculate the best neighborhood in Pittsburgh based on analyzing various man-made attractions that factor into the neighborhood's beauty and popularity.
 
 # Team Name: The Scenic Route
