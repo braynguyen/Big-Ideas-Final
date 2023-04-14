@@ -9,7 +9,7 @@ William Lee ~ wil30@pitt.edu
 Maximillian Liao ~ mwl33@pitt.edu
 
 # Description
-Our project consisted of finding the best possible neighborhood in Pittsburgh based on it's prettiness. The project was created with the idea of looking at different public attractions and using a scale to measure the percentages of these attractions in each of the neighborhoods to calculate our results. The three kinds of attractions that we measured throughout the project were public art, water features, and greenways. We used our metric, the standardized prettiness scale, to create a percentage for the number of public art, decorative water features, and greenways that were in every neighborhood. We then averaged these percentages for each neighborhood to create a number, and the highest average number would receive the winner as the prettiest neighborhood.  
+Our project consisted of finding the best possible neighborhood in Pittsburgh based on it's prettiness. The project was created with the idea of looking at different public attractions and using a scale to measure the percentages of these attractions in each of the neighborhoods to calculate our results. The three kinds of attractions that we measured throughout the project were public art, water features, and greenways. We used our metric, the standardized prettiness scale, to create a percentage for the number of public art, decorative water features, and greenways that were in every neighborhood. We then averaged these percentages for each neighborhood to create a number, and the highest average number would be crowned the winner as the prettiest neighborhood.  
 
 
 # Datasets Used
